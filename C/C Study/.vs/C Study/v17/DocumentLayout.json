@@ -3,6 +3,9 @@
   "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\GamePrograming\\C\\C Study\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{C92F8DA3-92D9-4578-8367-D5ED7B09F759}|..\\Ch1\u0027\\Ch1\u0027.vcxproj|C:\\Users\\Administrator\\Desktop\\GamePrograming\\C\\Ch1\u0027\\Variable.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E9EF144F-C1C2-4AA0-A73B-BFF2C354BA6E}|C Study.vcxproj|C:\\Users\\Administrator\\Desktop\\GamePrograming\\C\\C Study\\Hello World.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{E9EF144F-C1C2-4AA0-A73B-BFF2C354BA6E}|C Study.vcxproj|solutionrelative:Hello World.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
@@ -19,12 +22,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Variable.c",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\GamePrograming\\C\\Ch1\u0027\\Variable.c",
+              "RelativeDocumentMoniker": "..\\Ch1\u0027\\Variable.c",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\GamePrograming\\C\\Ch1\u0027\\Variable.c",
+              "RelativeToolTip": "..\\Ch1\u0027\\Variable.c",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACMAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-02-17T07:31:04.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Hello World.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\GamePrograming\\C\\C Study\\Hello World.cpp",
               "RelativeDocumentMoniker": "Hello World.cpp",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\GamePrograming\\C\\C Study\\Hello World.cpp",
               "RelativeToolTip": "Hello World.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-02-14T07:20:33.014Z",
               "EditorCaption": ""
