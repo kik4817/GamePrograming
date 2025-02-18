@@ -42,11 +42,11 @@ int main()
 	
 	float float2 = 0.8;
 	float float3 = 0.2;
-
+	int int2 = 0;
 
 	printf("%s 강화스토리\n", "브론즈소드");
-	printf("기본 %s,%d가 너무 약해 강화하기로함\n", "브론즈소드");
-	printf("%s 강화 시도시시 %f 만큼 강화할수 있습니다.\n", "브론즈소드", float2);
+	printf("기본 %s %d가 너무 약해 강화하기로함\n", "브론즈소드", int2);
+	printf("%s %d 강화 시도시시 %f 만큼 강화할수 있습니다.\n", "브론즈소드", int2, float2);
 	printf("%s를 강화 하였으나 %f 로 실패하였습니다.\n", "브론즈소드", float3);
 			
 
