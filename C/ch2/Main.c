@@ -20,8 +20,8 @@
 
 /*
 변수의 이용 규칙
-1.
-2.
+1. 
+2. 
 3. 특수 기호를 넣으면 안된다
 4. 이름사이에 공백 문자가 들어갈수 없다
 5. 키워드는 이름으로 사용할수 없다
@@ -65,20 +65,20 @@ int main()
 	//정수의 데이터 width height
 
 
-	//int width, height, extent;
+	int width, height, extent;
 	//width = 3;
 	//height = 5;
 	//extent = width * height;
 
 	
-	//printf("가로의 길이를 입력해주세요\n");
-	//scanf("%d", &width);
-	//printf("세로의 길이를 입력해주세요\n");
-	//scanf("%d", &height);
+	printf("가로의 길이를 입력해주세요\n");
+	scanf_s("%d", &width);
+	printf("세로의 길이를 입력해주세요\n");
+	scanf_s("%d", &height);
 	
-	//extent = width * height;
+	extent = width * height;
 
-	//printf("사각형의 넓이는 : %d", extent);
+	printf("사각형의 넓이는 : %d\n", extent);
 
 
 
