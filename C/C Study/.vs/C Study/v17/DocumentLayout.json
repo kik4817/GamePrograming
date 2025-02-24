@@ -3,16 +3,7 @@
   "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\GamePrograming\\C\\C Study\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1189EE1E-3E1D-492B-8391-4E0F7C0E3B64}|..\\Ch5\\Ch5.vcxproj|C:\\Users\\Administrator\\Desktop\\GamePrograming\\C\\Ch5\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5BC04877-581F-4BA9-B5D3-927A8E84F3E9}|..\\Ch4\\Ch4.vcxproj|C:\\Users\\Administrator\\Desktop\\GamePrograming\\C\\Ch4\\Data.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{52684150-091E-4A52-A1B2-E18F5E02C851}|..\\operator\\operator.vcxproj|C:\\Users\\Administrator\\Desktop\\GamePrograming\\C\\operator\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{702AA5B1-1641-41C4-8558-EC846E6DAF4E}|..\\ch2\\ch2.vcxproj|C:\\Users\\Administrator\\Desktop\\GamePrograming\\C\\ch2\\Main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{799C77D3-C5A8-4F46-ADA6-B4EAF5CF3E76}|..\\Ch6\\Ch6.vcxproj|C:\\Users\\Administrator\\Desktop\\GamePrograming\\C\\Ch6\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -28,51 +19,14 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "main.c",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\GamePrograming\\C\\Ch5\\main.c",
-              "RelativeDocumentMoniker": "..\\Ch5\\main.c",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\GamePrograming\\C\\Ch5\\main.c",
-              "RelativeToolTip": "..\\Ch5\\main.c",
-              "ViewState": "AgIAAJwAAAAAAAAAAAAAALAAAAAXAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\GamePrograming\\C\\Ch6\\main.c",
+              "RelativeDocumentMoniker": "..\\Ch6\\main.c",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\GamePrograming\\C\\Ch6\\main.c",
+              "RelativeToolTip": "..\\Ch6\\main.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-02-21T07:01:37.756Z",
+              "WhenOpened": "2025-02-24T07:02:15.795Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Data.c",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\GamePrograming\\C\\Ch4\\Data.c",
-              "RelativeDocumentMoniker": "..\\Ch4\\Data.c",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\GamePrograming\\C\\Ch4\\Data.c",
-              "RelativeToolTip": "..\\Ch4\\Data.c",
-              "ViewState": "AgIAAGgAAAAAAAAAAAApwHAAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-02-20T07:24:38.714Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "main.c",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\GamePrograming\\C\\operator\\main.c",
-              "RelativeDocumentMoniker": "..\\operator\\main.c",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\GamePrograming\\C\\operator\\main.c",
-              "RelativeToolTip": "..\\operator\\main.c",
-              "ViewState": "AgIAAGQAAAAAAAAAAAAAAHwAAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-02-19T07:05:02.366Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Main.c",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\GamePrograming\\C\\ch2\\Main.c",
-              "RelativeDocumentMoniker": "..\\ch2\\Main.c",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\GamePrograming\\C\\ch2\\Main.c",
-              "RelativeToolTip": "..\\ch2\\Main.c",
-              "ViewState": "AgIAADgAAAAAAAAAAAAIwEMAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-02-18T07:07:52.258Z"
             }
           ]
         }
