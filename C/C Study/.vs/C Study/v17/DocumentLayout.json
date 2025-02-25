@@ -3,6 +3,9 @@
   "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\GamePrograming\\C\\C Study\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{4B070CA3-67AD-4FB4-8977-E759296BBE8B}|..\\Ch7\\Ch7.vcxproj|C:\\Users\\Administrator\\Desktop\\GamePrograming\\C\\Ch7\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{799C77D3-C5A8-4F46-ADA6-B4EAF5CF3E76}|..\\Ch6\\Ch6.vcxproj|C:\\Users\\Administrator\\Desktop\\GamePrograming\\C\\Ch6\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -19,14 +22,26 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "main.c",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\GamePrograming\\C\\Ch7\\main.c",
+              "RelativeDocumentMoniker": "..\\Ch7\\main.c",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\GamePrograming\\C\\Ch7\\main.c",
+              "RelativeToolTip": "..\\Ch7\\main.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFwAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-02-25T07:02:07.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "main.c",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\GamePrograming\\C\\Ch6\\main.c",
               "RelativeDocumentMoniker": "..\\Ch6\\main.c",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\GamePrograming\\C\\Ch6\\main.c",
               "RelativeToolTip": "..\\Ch6\\main.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAOAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-02-24T07:02:15.795Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-24T07:02:15.795Z"
             }
           ]
         }
