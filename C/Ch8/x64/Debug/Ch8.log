@@ -1,0 +1,9 @@
+﻿  main.c
+C:\Users\Administrator\Desktop\GamePrograming\C\Ch8\main.c(36,2): warning C4013: 'Upgrade'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  menu.c
+  코드를 생성하고 있습니다...
+WeaponUpgrade.obj : error LNK2005: weaponLv이(가) menu.obj에 이미 정의되어 있습니다.
+WeaponUpgrade.obj : error LNK2005: basePower이(가) menu.obj에 이미 정의되어 있습니다.
+WeaponUpgrade.obj : error LNK2005: weight이(가) menu.obj에 이미 정의되어 있습니다.
+WeaponUpgrade.obj : error LNK2005: currentAttackPower이(가) menu.obj에 이미 정의되어 있습니다.
+C:\Users\Administrator\Desktop\GamePrograming\C\C Study\x64\Debug\Ch8.exe : fatal error LNK1169: 여러 번 정의된 기호가 있습니다.
