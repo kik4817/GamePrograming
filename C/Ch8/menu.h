@@ -4,6 +4,7 @@
 #include <stdbool.h>
 #include <Windows.h> // system("cls")
 #include <conio.h>   // _getch()
+#include "WeaponUpgrade.h"
 
 /*
 ÇÔ¼ö(Function)

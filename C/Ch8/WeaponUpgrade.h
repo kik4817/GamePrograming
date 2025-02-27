@@ -2,7 +2,10 @@
 
 #include <stdio.h>
 #include <stdbool.h>
-#include <Windows.h> 
-#include <conio.h>   
+#include <conio.h>
+#include <time.h>
+#include "Upgrade.h"
+
+void ShowUpgradeMenu();
 
 void Upgrade();

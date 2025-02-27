@@ -33,8 +33,5 @@ scanf ют╥б
 int main() 
 {
 	SelectMenu();
-	Upgrade();
-
-
-
+	
 }
