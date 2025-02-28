@@ -8,11 +8,15 @@ int currentAP = 0;
 
 void ShowUpgradeMenu()
 {
+	int normalCost = 100;
+	int hightCost = 500;
+
 	while (true)
 	{
 		printf("1_강화한다.\n");
 		printf("2_고급 제련소 이용.\n");
-		printf("3_강화를 취소한다.\n");
+		printf("3_돈벌기.\n");
+		printf("4_강화를 취소한다.\n");
 
 		int inputnumber = 0;
 
@@ -21,13 +25,23 @@ void ShowUpgradeMenu()
 
 		if (inputnumber == 1)
 		{
-			WeaponUpgrade();
+			if (UseMoney(normalCost))
+			{
+				WeaponUpgrade();
+			}
 		}
 		else if (inputnumber == 2)
 		{
-			AdvancedWeaponUpgrade();
+			if (UseMoney(hightCost))
+			{
+				AdvancedWeaponUpgrade();
+			}
 		}
 		else if (inputnumber == 3)
+		{
+			GetMoney();
+		}
+		else if (inputnumber == 4)
 		{
 			printf("강화를 취소\n");
 			break;

@@ -1,4 +1,8 @@
 #include "lecture.h"
+#include "Upgrade.h"
+#include "Currency.h"
+#include "main.h"
+//#include <stdio.h>
 /*
 	작성일 : 2025-02-27
 	작성자 : 김인국
@@ -66,12 +70,6 @@
 	call by calue vs reference
 */
 
-
-
-
-
-
-
 /*
 	전역 변수 || main 함수 || LocalFunc 함수
 	number || number || value
@@ -79,8 +77,31 @@
 	LocalFunc 함수 -> main 함수 -> 전역 변수
 */
 
+int CurrentMoney = 1000;
+
+// 내가 가진 돈의 정보를 보여줘
+
+void ShowInfo()
+{
+	printf("캐릭터의 클래스 %s\n", "모험가");
+	printf("현재 가진 돈 : %d\n", CurrentMoney);
+
+	WaitinputAnyKey();
+}
+
+void WaitinputAnyKey()
+{
+	printf("창을 닫으려면 아무 키를 입렵해주세요.");
+	_getch();
+}
+
 int main() 
 {
-	ShowExample();
+	ShowInfo();
+	system("cls");
+	
+	UseMoney(1500);
+	//ShowExample();
 	ShowUpgradeMenu();
+	
 }
