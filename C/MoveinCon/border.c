@@ -3,7 +3,7 @@
 void ShowBorder()
 {
 	printf("¡á¡á¡á¡á¡á¡á¡á¡á¡á¡á¡á¡á¡á¡á¡á¡á¡á¡á¡á¡á\n");
-	printf("¡á¡Ú                                  ¡á\n");
+	printf("¡á                                    ¡á\n");
 	printf("¡á                                    ¡á\n");
 	printf("¡á                                    ¡á\n");
 	printf("¡á                                    ¡á\n");
