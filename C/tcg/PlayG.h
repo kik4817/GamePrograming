@@ -1,8 +1,11 @@
 #pragma once
 #include <stdio.h>
-#include <stdlib.h>
-#include <time.h>
+#include <stdbool.h>
+
+extern int TLV;
+extern int TotalM;
+extern int TPW;
 
 void ShowMenuG();
 void ShowPlayG();
-
+void ShowPlayerInfo();

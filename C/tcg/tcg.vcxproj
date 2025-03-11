@@ -132,6 +132,7 @@
     <ClCompile Include="InfoM.c" />
     <ClCompile Include="main.c" />
     <ClCompile Include="Map.c" />
+    <ClCompile Include="playerR.c" />
     <ClCompile Include="PlayG.c" />
     <ClCompile Include="UpW.c" />
   </ItemGroup>
@@ -140,6 +141,7 @@
     <ClInclude Include="GetM.h" />
     <ClInclude Include="InfoM.h" />
     <ClInclude Include="Map.h" />
+    <ClInclude Include="playerR.h" />
     <ClInclude Include="PlayG.h" />
     <ClInclude Include="UpW.h" />
   </ItemGroup>

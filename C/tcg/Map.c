@@ -4,11 +4,11 @@
 void ShowMap()
 {
 	printf("бсбсбсбсбсбсбс\n");
-	printf("бсбу      б▄бс\n");
 	printf("бс          бс\n");
-	printf("бс    б┘    бс\n");
 	printf("бс          бс\n");
-	printf("бс        б┌бс\n");
+	printf("бс          бс\n");
+	printf("бс          бс\n");
+	printf("бс          бс\n");
 	printf("бсбсбсбсбсбсбс\n");
 }
 
